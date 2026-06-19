@@ -63,5 +63,6 @@ collections of emoticon
 * 🔓
 * 🔔
 * 📌
+* 💡
 
 ri pemilik hak cipta.
