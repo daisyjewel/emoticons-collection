@@ -38,6 +38,11 @@ collections of emoticon
 
 ---
 
+## 🍓 Fruits
+* 🍓
+
+---
+
 ## 💻 Dev & Tech
 * 💻
 * 🖥️
@@ -64,5 +69,7 @@ collections of emoticon
 * 🔔
 * 📌
 * 💡
+
+---
 
 ---
