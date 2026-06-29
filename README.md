@@ -54,6 +54,7 @@ collections of emoticon
 * 📁
 * 📄
 * 🌐
+* 📋
 
 ---
 
